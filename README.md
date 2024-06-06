@@ -1,6 +1,7 @@
 # Project RDE <br />
     Running on RPG MAKER MV <br />
 <br />
+
 ## Idea Plot <br />
   The World has gave its people a chance to fight against the common evil, <br />
   After the war, and many years had passed, only of the church continues to sing their praises, <br />
@@ -10,6 +11,7 @@
   <br />
   <br />
   Check the concept-notes.txt for more details. <br />
+  
 ## Current Job Roles <br />
   Director: Nagatoro <br />
   Co-Producer: core <br />
