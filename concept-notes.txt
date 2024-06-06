@@ -1,6 +1,7 @@
-Character Concepts:
+Main Character Concepts:
 
 Name: Lilia Albone (False Name) 
+<<<<<<< HEAD
 Real Name: "Daphne" (No last name, will tie into it later and expand soon)
 Sex: Female
 Physical Characteristics:
@@ -19,139 +20,29 @@ Wears a frilly shirt underneath her "cloak"
 Stockings
  "practical" and "frilly" denim shorts. 
 Generic open toe shoes
+=======
+	Real Name: "Daphne" (No last name, will tie into it later and expand soon)
+	Purpose: The Main Character / Hero
+	Sex: Female
+	Characteristics:
+		Silver, almost dirt white with a hint of blue, short hair (Imagine Anis from NIKKE), crimson-pinkish eye color. Generic anime girl height
+		Eyes are this lazy yet shart and focused eyes. (#core: is this Emilia?!?!)
 
-Side Characters and Others: TBA
+	Expressions and Character bust dialogue: TBA
 
+	Colour scheme:
+		Crimson / Grey / Diamond Blue / Lilac  / Purple Motifs
 
-Game Mechanics (Combat, Interactions, etc.)
-
-General System:
-Karma (Lower = evil, Higher = Good: Certain actions are disabled like killing / robbing / saving at certian karma.
-Dictated by the actions you take in a certain region, example: if you currently 
-reside in one of the districts ruled by a degenerate "king" your "bad" karma will actually give you more benefits.
-Can be upped if you talk to any "Priest" class npc or doing any "Good" choices / Action. 
-Can be lowered if you talk to any "Heretical" / "Evil" NPCS, same as the upper conditions. 
-
-Permanent Karma means at a certain routes, choices like killing / saving will be disabled. 
-For certain routes you need a amount of permanent / normal karma. 
-
-Sins:
-Will show as a stat if you're in the "Evil" routes. 
-Dictated by how evil you become, generally, the higher sin you are, the higher your difficulty will be.
-It will also lock you into certain routes once you meet the required amounts.
-It will be more difficult as pretty much fighting and killing everyone will be your only options. 
-(No saving, run away and stuff) (You'll also barely meet any normal enemies and only boss rushes will happen)
-(Running away / Mercies are also removed.) 
-
-Put a emphasis that, you're gonna be strong as hell but have to fight a million dudes if you go the "Evil and Solo" Route.
+	Outfit: (will sketch soon) (Probably will keep pre-purge or post purge) (Colour scheme soon?)
+		Wears a  "cloak" that covers her upper body (pretty frilly and not very restricting)
+		uses a hairband with a ribbon on the side of her hair
+		Wears a frilly shirt underneath her "cloak" 
+		Stockings
+		"practical" and "frilly" denim shorts. 
+		Generic open toe shoes
 
 
 
-For both systems, items, classes and skills can be upgraded / changed / removed / evolved depending on the stats.
-
-The main system for strength is "Ephitets / Engravings" 
-
-Engravings are items that can store / bestow "titles" to you. (It's what the "Undead" item that was given to you by the black rabbit was.)
-it can be affected by both systems and certain events.
-
-The titles can grant passives, appease certain interactins, and allow access to some parts. (Level checks, item and Title checks will be a mechanic)
-
-You gain alot more ephitets / gear if you go the evil routes.
-
-
-Magic / Sciences / Martial: Affected / Affects where you currently are. Since some parts focus on magic and some only on scienes.
-
-Magic: Uses Mana
-
-Base Elements:
-Fire
-Earth
-Wind
-Water
-
-Combined Elements:
-
-Lava / Magma (Fire and Earth)
-Storm (Fire and Wind)
-Ice (Water and Wind)
-Nature (Water and Earth)
-
-Special Elements:
-Darkness
-Light
-Souls  (Adding strenghth, debuffs, buffs, changing forms, etc)
-Conjuration (Weapons and stuff)
-
-
-Sciences: Uses resources (Could be branded as a heretic if you abuse this in some parts)
-
-Base Sciences: EXPAND
-Mechanical (Uses fuel and energy) (Very wide ranged.) (Enhancements are here too)
-Chemical  (Uses various chemicals to form reactions, can be used to craft items on the go.)
-Biological (Only useful in the Evil route / Genuis Scientist route. Mustard gas, and otehr stuff- you name it.)
-
-Special Sciences: Other fields of science (Requires you to learn from advanced mechanical / scientific socities)
-Gravity (Common Special Sciences)
-Time Manipulation
-Atomic Manipulation (Insanely hard to get, OP)
-lchemy (Passive, can transmute and change the qualities of stuff, more complex, needs more exp and levels)
-MORE TBA
-
-Martial: Needs to go to a dojo and train and stuff (first combat system youll use)
-
-Weapons Branch
-Katana (dual / one katana)
-Spear
-Naginata
-Club
-Longsword
-Zweihander
-Fencing Sword (i forgor)
-Knives 
-
-Special weapons branch:
-Guns
-Traps
-TBA
-
-
-MORE TBA
-
-Hand-to-Hand Combat
-TBA (Style names and stuff)
-
-Classes / Races: certain classes are locked behind races (Can change with a price only base races tho)
-
-Base Races: Have restricitons on classes depending on what race.
-Human 
-Animal Hybrid
-Cyborg
-Undead
-
-Special Races evolution: You have to choose to go down a specific race path.
-Angel / Demon : Human
-Full transformation : Animal
-Hivemind Master : Cyborg
-True undead (Hardest Race) : Undead
-
-Classes: Diffirent interactions depending on what you choose.
-Knight
-Mage (Heretical Scientist, locked in evil route)
-Hunter 
-Scientist 
-Martial Arts Master
-Marksman 
-Priest (Heretical Scientist, locked in evil route)
-Mercenary 
-
-Subclasses:
-Knight (Can evolve to head knight)
-Mage (Necromancer, Chronomancer, Sorcerer) to get Necromaner you need to be a undead mage. Chronomaster, heretical scientist with advaned sorcery and science.
-Sorcerer (Normal Evoluton of Mage)
-Hunter (Thief, Assassin, Beast Slayer, High beast Slayer) (thief, assasin are generic alasses, beast and high beast are a special class.)
-Scientist (Heretical Priest, High Heretical Priest, Mechanical God, Mad Scientist, Faustian Heretic, Fanatical Genuis) (Take science and magic to get the heretical archetype.)
-(Faustian, all magic and scientific fields.) (Fanatical and Mad Scientist, regular progression, has access to other stuff.)
-THE REST TBA
 
 
 
