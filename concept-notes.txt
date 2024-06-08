@@ -5,7 +5,7 @@ Name: Lilia Albone (False Name)
 Real Name: "Daphne" (No last name, will tie into it later and expand soon)
 Sex: Female
 Physical Characteristics:
-Silver, almost dirt white with a hint of blue, short hair (Imagine Anis from NIKKE), crimson-pinkish eye color. Generic anime girl height
+Silver, almosty dirt white with a hint of blue, short hair (Imagine Anis from NIKKE), crimson-pinkish eye color. Generic anime girl height
 Eyes are this lazy yet shart and focused eyes.
 
 Expressions and Character bust dialogue: TBA
@@ -18,166 +18,58 @@ Wears a  "cloak" that covers her upper body (pretty frilly and not very restrict
 uses a hairband with a ribbon on the side of her hair
 Wears a frilly shirt underneath her "cloak" 
 Stockings
- "practical" and "frilly" denim shorts. 
+practical" and "frilly" denim shorts. 
 Generic open toe shoes
-=======
-	Real Name: "Daphne" (No last name, will tie into it later and expand soon)
-	Purpose: The Main Character / Hero
-	Sex: Female
-	Characteristics:
-		Silver, almost dirt white with a hint of blue, short hair (Imagine Anis from NIKKE), crimson-pinkish eye color. Generic anime girl height
-		Eyes are this lazy yet shart and focused eyes. (#core: is this Emilia?!?!)
 
-	Expressions and Character bust dialogue: TBA
+Occupation: Disciple of the church to be promoted to whatever squad burnt down her village? (To be expanded upon by core)
 
-	Colour scheme:
-		Crimson / Grey / Diamond Blue / Lilac  / Purple Motifs
+Personality:
 
-	Outfit: (will sketch soon) (Probably will keep pre-purge or post purge) (Colour scheme soon?)
-		Wears a  "cloak" that covers her upper body (pretty frilly and not very restricting)
-		uses a hairband with a ribbon on the side of her hair
-		Wears a frilly shirt underneath her "cloak" 
-		Stockings
-		"practical" and "frilly" denim shorts. 
-		Generic open toe shoes
+Motivations:
 
+Goal/s:  
 
+Infamy / Fame / Notoriety (If we're going with the mercenary theme, 
+Karma and Sanity Meters: (Add a threshold so lets say if your sanity gets below 0/-10 the more buffs you get)
 
-Side Characters and Others: TBA
+Sanity meter, the sanity of the protagonist.
+Generally speaking, the higher your sanity is, the more "in control" you are, and the lower your sanity is, the less in control your character is.
+For combat, lower sanity is better if you are going a solo run as, the lower your sanity gets, the more damage buffs 
+your character gets, in exchange for being "uncontrollable" (You might target allies or if you get low enough, you might start attacking random enemies)
+(And if it gets even lower than that, you might not have control over what items you use and guarding / running away will be disabled, if you go that low)
+If you have a higher sanity, you don't get any buffs in exchange for higher "precision" and more control of who to target. 
 
+Certain gear and skills may also be unlocked / be useable if at a low sanity. And  gears / skills may also be enhanced / debuffed depending on the item.
+(Maybe a assasination mechanic will be added soon? if it is added it might be disbaled in favor for a straight ambush / fistfight.)
 
-Game Mechanics (Combat, Interactions, etc.)
+For story purposes:
 
-General System:
-Karma (Lower = evil, Higher = Good: Certain actions are disabled like killing / robbing / saving at certian karma.
-Dictated by the actions you take in a certain region, example: if you currently 
-reside in one of the districts ruled by a degenerate "king" your "bad" karma will actually give you more benefits.
-Can be upped if you talk to any "Priest" class npc or doing any "Good" choices / Action. 
-Can be lowered if you talk to any "Heretical" / "Evil" NPCS, same as the upper conditions. 
-
-Permanent Karma means at a certain routes, choices like killing / saving will be disabled. 
-For certain routes you need a amount of permanent / normal karma. 
-
-Sins:
-Will show as a stat if you're in the "Evil" routes. 
-Dictated by how evil you become, generally, the higher sin you are, the higher your difficulty will be.
-It will also lock you into certain routes once you meet the required amounts.
-It will be more difficult as pretty much fighting and killing everyone will be your only options. 
-(No saving, run away and stuff) (You'll also barely meet any normal enemies and only boss rushes will happen)
-(Running away / Mercies are also removed.) 
-
-Put a emphasis that, you're gonna be strong as hell but have to fight a million dudes if you go the "Evil and Solo" Route.
+If your sanity is low, you will get locked out decisions that require a stable or rational mind (for example negotitations, not that negotiations will be a thing, probably.) in favor of violence.
+This part might have an RNG part, like sometimes you cant even buy stuff and will just straight up try to kill whoever it is you are talking to if your sanity gets down by a huge amount. 
+ALong with that, some stuff might be replaced by some creepy or unintelligible stuff if you do become insane.
+And, if you have a high sanity, choices, paths and dialgoue will appear normal. Generally speaking, a higher sanity will allow more routes, items and other shit to be "visible" to you.
 
 
+Karma meter, the metaphysical representation of the protagonists actions.
 
-For both systems, items, classes and skills can be upgraded / changed / removed / evolved depending on the stats.
+For *literal* combat purposes, this meter largely does not matter.
 
-The main system for strength is "Ephitets / Engravings" 
+For story purposes, this is the main driving force behind the game's mechanics like, story, routes and fights will be locked behind a Karma threshold.
+Having a high karma means your "alignment" will be "good" while having low karma will be "bad"
+Opportunities like other people joining your party will be low as you might appear to be a untrustworthy person at a low karma. 
+In this story, you explore many places that treat karma differently, for example: A sector of the city, that is obsessed with remaining "pure"
+so, if you have a low karma, the people residing there and guards might treat you harshly if your karma is "just low" but if you have an excessively low karma, 
+they might straight up just kill you if you try and interact with them, and go even lower than that they might just chase your ass at the gate 
+(Not really a concrete example but depending on your karma level, you might get more rewards if you enter a place that actively worships debauchery for exampple.)
+(This will also tie in to the Black Market game mechanic, some items, services and jobs will be locked behind certain karma, so missions that include alot of killing will be locked behing low karma. You also get discounts and stuff possibly. (Maybe scrapped?)
 
-Engravings are items that can store / bestow "titles" to you. (It's what the "Undead" item that was given to you by the black rabbit was.)
-it can be affected by both systems and certain events.
+Lastly, the difficulty and number of fights (as mentioned above will be much harder / easier depeding on what threshold you've hit.)
 
-The titles can grant passives, appease certain interactins, and allow access to some parts. (Level checks, item and Title checks will be a mechanic)
+Permanent Karma:
+This is a route lock mechanic, after this, you can't gain or lose any karma above / below a certain threshold. 
 
-You gain alot more ephitets / gear if you go the evil routes.
-
-
-Magic / Sciences / Martial: Affected / Affects where you currently are. Since some parts focus on magic and some only on scienes.
-
-Magic: Uses Mana
-
-Base Elements:
-Fire
-Earth
-Wind
-Water
-
-Combined Elements:
-
-Lava / Magma (Fire and Earth)
-Storm (Fire and Wind)
-Ice (Water and Wind)
-Nature (Water and Earth)
-
-Special Elements:
-Darkness
-Light
-Souls  (Adding strenghth, debuffs, buffs, changing forms, etc)
-Conjuration (Weapons and stuff)
-
-
-Sciences: Uses resources (Could be branded as a heretic if you abuse this in some parts)
-
-Base Sciences: EXPAND
-Mechanical (Uses fuel and energy) (Very wide ranged.) (Enhancements are here too)
-Chemical  (Uses various chemicals to form reactions, can be used to craft items on the go.)
-Biological (Only useful in the Evil route / Genuis Scientist route. Mustard gas, and otehr stuff- you name it.)
-
-Special Sciences: Other fields of science (Requires you to learn from advanced mechanical / scientific socities)
-Gravity (Common Special Sciences)
-Time Manipulation
-Atomic Manipulation (Insanely hard to get, OP)
-lchemy (Passive, can transmute and change the qualities of stuff, more complex, needs more exp and levels)
-MORE TBA
-
-Martial: Needs to go to a dojo and train and stuff (first combat system youll use)
-
-Weapons Branch
-Katana (dual / one katana)
-Spear
-Naginata
-Club
-Longsword
-Zweihander
-Fencing Sword (i forgor)
-Knives 
-
-Special weapons branch:
-Guns
-Traps
-TBA
-
-
-MORE TBA
-
-Hand-to-Hand Combat
-TBA (Style names and stuff)
-
-Classes / Races: certain classes are locked behind races (Can change with a price only base races tho)
-
-Base Races: Have restricitons on classes depending on what race.
-Human 
-Animal Hybrid
-Cyborg
-Undead
-
-Special Races evolution: You have to choose to go down a specific race path.
-Angel / Demon : Human
-Full transformation : Animal
-Hivemind Master : Cyborg
-True undead (Hardest Race) : Undead
-
-Classes: Diffirent interactions depending on what you choose.
-Knight
-Mage (Heretical Scientist, locked in evil route)
-Hunter 
-Scientist 
-Martial Arts Master
-Marksman 
-Priest (Heretical Scientist, locked in evil route)
-Mercenary 
-
-Subclasses:
-Knight (Can evolve to head knight)
-Mage (Necromancer, Chronomancer, Sorcerer) to get Necromaner you need to be a undead mage. Chronomaster, heretical scientist with advaned sorcery and science.
-Sorcerer (Normal Evoluton of Mage)
-Hunter (Thief, Assassin, Beast Slayer, High beast Slayer) (thief, assasin are generic alasses, beast and high beast are a special class.)
-Scientist (Heretical Priest, High Heretical Priest, Mechanical God, Mad Scientist, Faustian Heretic, Fanatical Genuis) (Take science and magic to get the heretical archetype.)
-(Faustian, all magic and scientific fields.) (Fanatical and Mad Scientist, regular progression, has access to other stuff.)
-THE REST TBA
-
-
-
+It's so you don't kill everybody to purposely get your sanity / karma low, fight the hardest bosses, get the most op gear, replenish your saniuty / karma via the various methods then go to the "easier" part of the game.
+If you're in the good route, killing and other "bad" actions will be no longer available once your "Permanent Karma" has been set.
 
 
 
