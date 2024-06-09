@@ -11,20 +11,23 @@ Running on RPG MAKER MV
   <br />
   Check the concept-notes.txt for more details. <br />
   
-## Current Staff Members <br />
+## Current Staff Members: <br />
    Director: nagatoro <br />
    Co-director / Editor: core <br />
-   Assistant / proofreader: texture <br />
+   Assistant / Proofreader: texture <br />
    
-   Art / Design / Graphics <br />
-   Map & Assets: Cat <br />
+   Art / Design / Graphics: <br />
+   Map & Assets: Cat & nagatoro <br />
    Character Design: nagatoro <br />
    CG's and Art: (TBA) <br />
+   Intern: Scriptz (lol, lmao even.) <br />
 
-   Sound Design / Music <br />
+   Sound Design / Music: <br />
    Lead: Burg <br />
    Composer / Writer: Blawg<br />
    Adviser: Texture <br />
+
+    
 
 
 
