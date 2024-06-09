@@ -11,8 +11,20 @@ Running on RPG MAKER MV
   <br />
   Check the concept-notes.txt for more details. <br />
   
-## Current Job Roles <br />
-  Director: Nagatoro <br />
-  Co-Producer: core <br />
-  Map & Assets: Cat <br />
-  BGM: Burger <br />
+## Current Staff Members <br />
+   Director: nagatoro <br />
+   Co-director / Editor: core <br />
+   Assistant / proofreader: texture <br />
+   
+   Art / Design / Graphics <br />
+   Map & Assets: Cat <br />
+   Character Design: nagatoro <br />
+   CG's and Art: (TBA) <br />
+
+   Sound Design / Music <br />
+   Lead: Burg <br />
+   Composer / Writer: Blawg<br />
+   Adviser: Texture <br />
+
+
+
